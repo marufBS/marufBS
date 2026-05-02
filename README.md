@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Maruf 👋
 
-<!--
-**marufBS/marufBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer with a backend focus — building scalable systems with **Node.js**, **TypeScript**, and **PostgreSQL**.
 
-Here are some ideas to get you started:
+Currently the core backend engineer at **Jogan**, a B2B marketplace platform in Bangladesh. I design APIs, architect commerce systems, and manage cloud deployments on AWS and DigitalOcean.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech stack
+
+**Backend:** Node.js · TypeScript · Express · NestJS · REST APIs  
+**Databases:** PostgreSQL · Prisma · MongoDB · Mongoose  
+**Frontend:** React.js · Next.js · TailwindCSS · ShadCN UI  
+**Cloud & DevOps:** AWS EC2 · DigitalOcean · Nginx · PM2 · CI/CD  
+
+---
+
+### 💼 What I've built
+
+- **B2B marketplace backend** — cart, checkout pipeline, area-based pricing, OTP auth, face verification (AWS Rekognition)
+- **Fintech credit-tracking system** — consumer credit, payment reminders, trust-score workflows
+- **School management system** — MERN stack, scalable UI with React & Vuetify
+
+---
+
+### 📬 Get in touch
+
+- Portfolio: [maruf.bd](https://maruf.bd)
+- LinkedIn: [linkedin.com/in/maruf266](https://linkedin.com/in/maruf266)
+- Email: 0909maruf@gmail.com
